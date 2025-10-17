@@ -1,5 +1,8 @@
 {
   "timeZone": "Europe/Berlin",
   "dependencies": {},
-  "exceptionLogging": "STACKDRIVER"
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/spreadsheets"
+  ]
 }
